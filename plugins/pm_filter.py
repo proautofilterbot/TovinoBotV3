@@ -110,8 +110,6 @@ async def next_page(bot, query):
              InlineKeyboardButton(f"📃 Pages {round(int(offset) / 10) + 1} / {round(total / 10)}",
                                   callback_data="pages")
               ],[ 
-             InlineKeyboardButton("𝐇𝐎𝐖 𝐓𝐎 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃 𝐌𝐎𝐕𝐈𝐄𝐒", url=f'https://t.me/proautofilter_bot?start=BATCH-BQADBQAD-AUAApbYuVXLW3TSdfC3YBYE')
-              ]]
         )
     elif off_set is None:
         btn.append(
