@@ -439,7 +439,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                    [[
                     InlineKeyboardButton('📥 𝖣𝗈𝗐𝗇𝗅𝗈𝖺𝖽 𝖫𝗂𝗇𝗄 📥 ', url = msg.link)
                    ],[
-                    InlineKeyboardButton("⚠️ 𝖢𝖺𝗇'𝗍 𝖠𝖼𝖼𝖾𝗌𝗌 ❓ 𝖢𝗅𝗂𝖼𝗄 𝖧𝖾𝗋𝖾 ⚠️", url=f'https://t.me/+YvO6OaisVwExZGJl')
+                    InlineKeyboardButton("⚠️ 𝖢𝖺𝗇'𝗍 𝖠𝖼𝖼𝖾𝗌𝗌 ❓ 𝖢𝗅𝗂𝖼𝗄 𝖧𝖾𝗋𝖾 ⚠️", url=f'https://t.me/+3VdKxiQu0TI3ZTI1')
                    ],[ 
                      InlineKeyboardButton("𝐇𝐎𝐖 𝐓𝐎 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃 𝐌𝐎𝐕𝐈𝐄𝐒", url=f'https://t.me/proautofilter_bot?start=BATCH-BQADBQAD-AUAApbYuVXLW3TSdfC3YBYE')
                   ]]
